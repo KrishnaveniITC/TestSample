@@ -12,10 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("welcome to git")
-        print("two braches")
-        
-        print ("practise")
+
         
         // Do any additional setup after loading the view, typically from a nib.
     }
